@@ -1,1 +1,1 @@
-# ENPH354: LabVIEW files for Assignments and for the Design Project
+# ENPH354: LabVIEW files
